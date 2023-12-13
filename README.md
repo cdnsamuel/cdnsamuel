@@ -18,7 +18,7 @@ Mon but après cette formation est de trouver une alternance en **DevOps**.
 
 ## 💖 Hobbies 
 - Bricolage informatique
-Maintenance d'un homelab personnel à fin d'éprouver ma curiosité
+Maintenance d'un homelab personnel afin d'éprouver ma curiosité
 - Sports de pleine nature quand j'ai du temps libre !
   - Escalade
   - Course à pied
