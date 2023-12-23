@@ -35,7 +35,6 @@ Maintenance d'un homelab personnel afin d'éprouver ma curiosité
 
 ## 📫 Contact 
 
-![Wookie avatar](https://cloud.samso.fr/apps/files_sharing/publicpreview/56gPTZBNCqpiNST?file=/&fileId=19830&x=2560&y=1387&a=true&etag=eee11c1cd60a765c92c8393eb5548525)  
 cdnsamuel@pm.me
 <!---
 cdnsamuel/cdnsamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
