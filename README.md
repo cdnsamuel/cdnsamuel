@@ -1,41 +1,44 @@
 # 🚀 Samuel CDN
 
 ## 👀 Présentation 
-Agé de 30 ans et Chiropracteur de formation, j'effectue une **reconversion** dans le secteur du digital qui me passionne depuis l'enfance.  
-Actuellement développeur **JavaScript**, j'effectue actuellement une formation d'**administrateur système**.
-Mon but après cette formation est de trouver une alternance en **DevOps**.
+**Chiropracteur** de formation, j'effectue une **reconversion** dans le secteur du digital.  
+Je dispose d’un titre de Développeur web JavaScript et d’une formation d’Administrateur Systèmes et Réseaux.  
+Inscrit chez Datascientest pour une **alternance** en **DevOps**.  
+Je **recherche une entreprise** où je pourrais mettre en application ces connaissances dans un projet concret.  
+  
+Disponibilité : **Mars 2024**  
+Rythme : 3 semaines en entreprise / 1 semaine en formation  
+**Contrat de professionnalisation** (18 mois)
 
-## ♾️ Formation 
-- **2023:** _Wild Code School_ - Titre de Développeur web et web mobile
+## ♾️ Formations 
+- **2023:** _Wild Code School_ - Formation Administrateur Sytèmes & Réseaux
+- **2023:** _Wild Code School_ - Titre de Développeur web & web mobile
 - **2018:** _Institut Franco Européen de Chiropratique_ - Titre de Chiropracteur
 - **2010:** _Lycée Antoine Boudelles_ - BAC Sciences Techniques de Laboratoire
   
-## 🚧 Expérience professionnelle 
+## 🚧 Expériences professionnelles
 - **2022-2023:** Plaquiste
 - **2018-2022:** Chiropracteur
 - **2013-2018:** Vendeur multimédia
 - **2010-2018:** Vendeur en boulangerie
 
-## 💖 Hobbies 
+## 💖 Loisirs 
 - Bricolage informatique
-Maintenance d'un homelab personnel afin d'éprouver ma curiosité
+Maintenance d'un homelab personnel et d'un cloud privé afin d'éprouver ma curiosité !
 - Sports de pleine nature quand j'ai du temps libre !
   - Escalade
   - Course à pied
   - VTT
   - ...
 - Coder des applications:
-  - [Team Generator](https://picker.cdnsamuel.fr) 
-  - [Geocode](https://geocode.cdnsamuel.fr) 
-  - [Cinereact](https://cinereact.cdnsamuel.fr) 
-  - [Choco Clicker](https://choco-clicker.cdnsamuel.fr/)
-  - [Time Hub](https://timehub.cdnsamuel.fr) 
-  - [World Catastrophe Survival](https://wcs.cdnsamuel.fr)
-  - [La Taverne](https://lataverne.cdnsamuel.fr)
+  - [Mon portfolio: folio.cdnsamuel.fr](https://folio.cdnsamuel.fr) 
+
 
 ## 📫 Contact 
 
-cdnsamuel@pm.me
+- cdnsamuel@pm.me
+- [in/cdnsamuel](https://www.linkedin.com/in/cdnsamuel/)
+
 <!---
 cdnsamuel/cdnsamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
