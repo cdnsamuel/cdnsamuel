@@ -3,12 +3,12 @@
 ## 👀 Présentation 
 **Chiropracteur** de formation, j'effectue une **reconversion** dans le secteur du digital.  
 Je dispose d’un titre de Développeur web JavaScript et d’une formation d’Administrateur Systèmes et Réseaux.  
-Inscrit chez Datascientest pour une **alternance** en **DevOps**.  
+Inscrit au sein de l'IPI Toulouse pour une **alternance** en **Développement**.  
 Je **recherche une entreprise** où je pourrais mettre en application ces connaissances dans un projet concret.  
   
-Disponibilité : **Mars 2024**  
+Disponibilité : **Septembre 2024**  
 Rythme : 3 semaines en entreprise / 1 semaine en formation  
-**Contrat de professionnalisation** (18 mois)
+**Contrat de professionnalisation** (12 mois)
 
 ## ♾️ Formations 
 - **2023:** _Wild Code School_ - Formation Administrateur Sytèmes & Réseaux
